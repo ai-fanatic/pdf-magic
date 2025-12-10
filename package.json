@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "browser-image-compression": "^2.0.2",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.4",
+    "lucide-react": "^0.559.0",
+    "mammoth": "^1.11.0",
     "next": "16.0.8",
+    "pdf-lib": "^1.17.1",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "react-dropzone": "^14.3.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
